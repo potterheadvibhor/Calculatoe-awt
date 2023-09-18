@@ -14,7 +14,7 @@ fdemo()
 {
     setTitle("Calculator Awt");
     setLayout(null);
-text1=new TextField();       
+text1=new TextField();       //textfield
 text1.setLocation(10,30);
 text1.setBackground(Color.gray);
 
